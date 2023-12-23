@@ -1,0 +1,121 @@
+sortId,levelUUID,levelId,desc,unlockType,paintCount,unlockCost,version
+1,65436622d726762824acafe6,1,Snowy World,CURRENCY,16.0,400,version1
+2,654313bed726762824ac97a6,2,December Days,CURRENCY,16.0,400,version1
+3,654303bbd726762824ac9289,3,Trains,CURRENCY,16.0,400,version1
+4,652f9b4d1400d8b6d675d509,4,Heart of Gratitude,CURRENCY,16.0,400,version1
+5,652f86011400d8b6d675d1b9,5,Autumn Holidays,CURRENCY,16.0,400,version1
+6,652f561b1400d8b6d675cb82,6,Campus,CURRENCY,16.0,400,version1
+7,6527bbf997f5d3b3dfba6969,7,Halloween Night,CURRENCY,16.0,400,version1
+8,6527c28b97f5d3b3dfba6d37,8,Dress-Up Day,CURRENCY,16.0,400,version1
+9,6513cbc0b71cba9dc1ba7d05,9,Halloween Foods,CURRENCY,16.0,400,version1
+10,650011f3d35d600a4a563c19,10,Canvas of Europe,CURRENCY,16.0,400,version1
+11,6500093cd35d600a4a563b1a,11,Scenic Paths,CURRENCY,16.0,400,version1
+12,64e6c8f1b5f53940ba76ef66,12,Golden Realm,CURRENCY,16.0,400,version1
+13,64e5843db5f53940ba76e0e7,13,Home of Plants,CURRENCY,16.0,400,version1
+14,64be31af15da672b6dc4aeba,14,Breath of Autumn,CURRENCY,16.0,400,version1
+15,64e57f6fb5f53940ba76de0a,15,Masterpieces,CURRENCY,16.0,400,version1
+16,64be319215da672b6dc4aeb6,16,Animal Whispers,CURRENCY,16.0,400,version1
+17,64be316c15da672b6dc4aeb2,17,Splendid Waterfalls,CURRENCY,16.0,400,version1
+18,649d2ca5d5f8ce50f9806633,18,Wild Journey,CURRENCY,16.0,400,version1
+19,649d2852d5f8ce50f9806548,19,Tent Moments,CURRENCY,16.0,400,version1
+20,6475ccf82102ac5b93e1a406,20,Happy Birthday,CURRENCY,16.0,400,version1
+21,6475c94d2102ac5b93e1a293,21,Sleepless City,CURRENCY,16.0,400,version1
+22,646dde17e72c4297fd31ffeb,22,Furry Companions,CURRENCY,16.0,400,version1
+23,643e1312e616ced1543bce3a,23,Enchanted Gardens,CURRENCY,16.0,400,version1
+24,64659158f28f95ddf6dcedaf,24,Freedom Celebration,CURRENCY,16.0,400,version1
+25,643e3cefe616ced1543bd5e9,25,World Cuisine,CURRENCY,16.0,400,version1
+26,644a284ff2cbe20cd7629941,26,Birdscapes,CURRENCY,16.0,400,version1
+27,642fc1446a19448e1f86cb73,27,Challenging,CURRENCY,16.0,400,version1
+28,6462f6de4e17b9c71e04d187,28,Summer Holiday,CURRENCY,16.0,400,version1
+29,6423cae72709bfc144c2b661,29,Earth Inhabitants,CURRENCY,16.0,400,version1
+30,6423bb312709bfc144c2b52c,30,Modern Home,CURRENCY,16.0,400,version1
+31,641181512709bfc144c13fe6,31,Gorgeous Palaces,CURRENCY,16.0,400,version1
+32,641145ee76c193cdc871ad73,32,Sleeping,CURRENCY,16.0,400,version1
+33,6411439476c193cdc871acc0,33,Imaginary Flights,CURRENCY,16.0,400,version1
+34,64069e144ecce27a6fe03c1c,34,Animal in Alphabet,CURRENCY,26.0,600,version1
+35,63feb73d4ecce27a6fe00190,35,Variable Weather,CURRENCY,16.0,400,version1
+36,63f58337d68059c52c6f7224,36,Easter Day,CURRENCY,16.0,400,version1
+37,63e30874232ea80c7954ffc1,37,Windows,CURRENCY,16.0,400,version1
+38,63e2fed315945b3985996969,38,St.Patrick's Day,CURRENCY,16.0,400,version1
+39,63c622f7dc8de1e7b38b3fb1,39,Happy Smiles,CURRENCY,16.0,400,version1
+40,63be5c20bca7595bc8b9cd45,40,Shape of Wind,CURRENCY,16.0,400,version1
+41,63b79a8cbca7595bc8b904ec,41,Violet Ambience,CURRENCY,16.0,400,version1
+42,63a2c2cdc00a83a598dbc1f2,42,Flowered Vehicles,CURRENCY,16.0,400,version1
+43,63b7925ebca7595bc8b9031d,43,Moments of Love,CURRENCY,16.0,400,version1
+44,63a2be98c00a83a598dbc10a,44,Colorful Handicrafts,CURRENCY,16.0,400,version1
+45,6361e163a3145f1256fce39c,45,Oil Paintings,CURRENCY,16.0,400,version1
+46,6386fb048062ac7fcbcb444a,46,Mushroom,CURRENCY,16.0,400,version1
+47,637dc0498062ac7fcbcb014a,47,Egypt Trip,CURRENCY,16.0,400,version1
+48,63745bdb231933abb27034d6,48,Working Pets,CURRENCY,16.0,400,version1
+49,6386f7168062ac7fcbcb436f,49,Happy New Year,CURRENCY,16.0,400,version1
+50,63748427231933abb27038b5,50,Butterfly Flutter,CURRENCY,16.0,400,version1
+51,63906a3a473e71ee5e374d51,51,Christmas Eve,CURRENCY,16.0,400,version1
+52,637dbb2b8062ac7fcbcb008e,52,Christmas Season,CURRENCY,16.0,400,version1
+53,6361d96ca3145f1256fce234,53,The Underwater World,CURRENCY,16.0,400,version1
+54,632d8fd460de5ff993ed63a1,54,Pet Home,CURRENCY,16.0,400,version1
+55,634fd2bca3145f1256fc61c1,55,Thanksgiving,CURRENCY,16.0,400,version1
+56,634fd427a3145f1256fc61f1,56,Fall Harvest,CURRENCY,16.0,400,version1
+57,62fc9fa6a9e3310549e5b445,57,Park Bench,CURRENCY,16.0,400,version1
+58,6342a114df60b1b10e0f9ba2,58,Vegetarian Food,CURRENCY,16.0,400,version1
+59,6342993fdf60b1b10e0f9ac4,59,Halloween Trip,CURRENCY,16.0,400,version1
+60,6331419760de5ff993ed754c,60,Vintage Cars,CURRENCY,16.0,400,version1
+61,6327eae460de5ff993ed2ce3,61,Aroma Coffee,CURRENCY,16.0,400,version1
+62,63244ff760de5ff993ed2730,62,Fantasy World,CURRENCY,16.0,400,version1
+63,630eff9960de5ff993eb6bb7,63,A Perfect Pair,CURRENCY,16.0,400,version1
+64,630ef78260de5ff993eb6a86,64,Symmetry,CURRENCY,16.0,400,version1
+65,630ed8a760de5ff993eb6997,65,About Rose,CURRENCY,16.0,400,version1
+66,62fc625ca9e3310549e5b0c2,66,Stained Glass,CURRENCY,16.0,400,version1
+67,62e746a4892f399c79a6e73c,67,Watercolor Paintings,CURRENCY,16.0,400,version1
+68,62e73c57892f399c79a6e5f4,68,Delicious Feast,CURRENCY,16.0,400,version1
+69,62d8ee28f5ffecb01379da28,69,Island on Ice,CURRENCY,16.0,400,version1
+70,62cd4b23f5ffecb0137978f4,70,Floristry,CURRENCY,16.0,400,version1
+71,62c534cb9876e4a1a6008962,71,Beautiful Canyon,CURRENCY,16.0,400,version1
+72,62c52e149876e4a1a600888a,72,Holiday Beach,CURRENCY,16.0,400,version1
+73,62b961e49876e4a1a600362d,73,Pet Thief,CURRENCY,16.0,400,version1
+74,62b96d039876e4a1a6003717,74,Interesting Toys,CURRENCY,16.0,400,version1
+75,62aaeb9e4ec0428207cf8c3e,75,Starry Night,CURRENCY,16.0,400,version1
+76,62a2ab05cce6b2f7f51914e9,76,Antiques,CURRENCY,16.0,400,version1
+77,629efffc37b6ba0e5af7886e,77,Baby Animals,CURRENCY,16.0,400,version1
+78,6290ab519386b7aedbd6f7b0,78,Rainy Day,CURRENCY,16.0,400,version1
+79,62909f7b9386b7aedbd6f61f,79,Blue World,CURRENCY,16.0,400,version1
+80,62822243e60a99787306c380,80,Delicious Dessert,CURRENCY,16.0,400,version1
+81,627dd618e60a99787306b670,81,Sports,CURRENCY,16.0,400,version1
+82,62748d38adf1572982bb8312,82,Purple World,CURRENCY,16.0,400,version1
+83,626751b0d2a541bce167bcac,83,Desert Scenery,CURRENCY,16.0,400,version1
+84,625cfc88b571ac9f45e87c29,84,Time to Play,CURRENCY,16.0,400,version1
+85,6253cd9d7c339f696ffb242f,85,Happy Easter,CURRENCY,16.0,400,version1
+86,624ffda37c339f696ffb1a20,86,Green World,CURRENCY,16.0,400,version1
+87,624ff6627c339f696ffb189b,87,Three Primary Colors,CURRENCY,16.0,400,version1
+88,624d479024cb8e8b164e0fc9,88,Visual Arts,CURRENCY,16.0,400,version1
+89,62446a5e58b9c9c4d11de2a0,89,April Fools,CURRENCY,16.0,400,version1
+90,62398c661635f6a54f05eea5,90,Lunchtime,CURRENCY,16.0,400,version1
+91,62319686f45666d941a79c6c,91,Cute Pet,CURRENCY,16.0,400,version1
+92,62285d93d04cbab22ad67cbc,92,Blooming Flowers,CURRENCY,16.0,400,version1
+93,6215ff3ba58eb44be7afa168,93,Exquisite Life,CURRENCY,16.0,400,version1
+94,6214b8aaa58eb44be7af904a,94,Pink World,CURRENCY,16.0,400,version1
+95,61f38f620cbd8ab1f88ad705,95,Warm Kitchen,CURRENCY,16.0,400,version1
+96,6190c2fc6ac28a0ab9b2d47f,96,Little-known Attractions,CURRENCY,16.0,400,version1
+97,6141f34641bd31b55a07b1d7,97,Cute Animals,CURRENCY,16.0,400,version1
+98,61908ca66ac28a0ab9b2cc00,98,Peace,CURRENCY,16.0,400,version1
+99,617bce98b5e166506a83b031,99,Rosy Dawn and Sunset Glow,CURRENCY,16.0,400,version1
+100,61908d0f6ac28a0ab9b2cc04,100,Fairy Tale World,CURRENCY,16.0,400,version1
+101,6190d3946ac28a0ab9b2d6b2,101,The Red World,CURRENCY,16.0,400,version1
+102,6141f34641bd31b55a07b1e9,102,Europe Sightseeing,CURRENCY,16.0,400,version1
+103,6177b5e1b5e166506a83a6e0,103,Master of the Sky,CURRENCY,16.0,400,version1
+104,61908e1f6ac28a0ab9b2cc13,104,Farm Scenery,CURRENCY,16.0,400,version1
+105,61908de66ac28a0ab9b2cc0f,105,Cartoon Animals,CURRENCY,16.0,400,version1
+106,6141f34641bd31b55a07b1eb,106,Sweet Pastry,CURRENCY,16.0,400,version1
+107,61839034b5e166506a83b9a1,107,World in Painting,CURRENCY,16.0,400,version1
+108,61e4de0f0660c83c4796caef,108,Family Farms,CURRENCY,16.0,400,version1
+109,6190cb6d6ac28a0ab9b2d5f8,109,Church,CURRENCY,16.0,400,version1
+110,61a7bbe9ad22f796bd0543ac,110,Vacation Spots,CURRENCY,16.0,400,version1
+111,6141f34641bd31b55a07b1e5,111,Men's Club,CURRENCY,16.0,400,version1
+112,6141f34641bd31b55a07b1ef,112,Halloween,CURRENCY,16.0,400,version1
+113,6141f34641bd31b55a07b1e7,113,Air Balloons,CURRENCY,16.0,400,version1
+114,61908fa26ac28a0ab9b2cc49,114,Bloom,CURRENCY,16.0,400,version1
+115,61ca3b9d7412358bc7cb40c0,115,New Year Fireworks,CURRENCY,16.0,400,version1
+116,619092416ac28a0ab9b2cc96,116,The Tranquil World,CURRENCY,16.0,400,version1
+117,6141f34641bd31b55a07b1e1,117,Urban Streets,CURRENCY,16.0,400,version1
+118,61c985bb7412358bc7cb3dd6,118,Christmas Party ,CURRENCY,16.0,400,version1
+119,61e8496f0660c83c4796fcc1,119,Animal Closeup,CURRENCY,14.0,350,version1
+120,6141f34641bd31b55a07b1d6,120,Grand Buildings,CURRENCY,16.0,400,version1

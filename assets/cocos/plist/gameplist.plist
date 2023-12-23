@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>gamepic/gamescreenToolbarEdgeIcon@3x.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,86},{72,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,84}</string>
+			</dict>
+			<key>gamepic/icnNavbarArrowLeft@3x.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{78,78},{60,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{60,52}</string>
+			</dict>
+			<key>gamepic/icnNavbarClean@3x.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{72,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{72,80}</string>
+			</dict>
+			<key>gamepic/icnNavbarEye@3x.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,238},{82,53}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,54}</string>
+			</dict>
+			<key>gamepic/icnNavbarHint@3x.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{78,2},{54,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{54,72}</string>
+			</dict>
+			<key>gamepic/icnNavbarImages@3x.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,162},{72,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{72,72}</string>
+			</dict>
+			<key>gamepic/white.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{136,2},{20,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,20}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>gameplist.png</string>
+			<key>realTextureFileName</key>
+			<string>gameplist.png</string>
+			<key>size</key>
+			<string>{158,293}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>158</integer>
+			<key>height</key>
+			<integer>293</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,17 @@
+sortId,levelUUID,levelId,type,cateGory,unlockCost,version
+1,636245a2a3145f1256fcee34,1,PAINT,man_made_scenery,0.0,version1
+2,6374ba49231933abb2703e53,2,PAINT,,0.0,version1
+3,63720f2a231933abb2701bc8,3,PAINT,PET,0.0,version1
+4,636245a0a3145f1256fcee32,4,PAINT,man_made_scenery,0.0,version1
+5,6360f4a1a3145f1256fcdd90,5,PAINT,man_made_scenery,0.0,version1
+6,637b57f7231933abb2706d27,6,PAINT,PET,0.0,version1
+7,631884e860de5ff993ecd622,7,PAINT,HOM,0.0,version1
+8,63639ae9a3145f1256fd0305,8,PAINT,,0.0,version1
+9,63639aeea3145f1256fd030c,9,PAINT,man_made_scenery,0.0,version1
+10,63639af0a3145f1256fd030f,10,PAINT,man_made_scenery,0.0,version1
+11,6220912bef73fcd39811c46b,11,PAINT,HOM,0.0,version1
+12,63639adfa3145f1256fd02f9,12,PAINT,man_made_scenery,0.0,version1
+13,6360f4a4a3145f1256fcdd95,13,PAINT,man_made_scenery,0.0,version1
+14,63736d5c231933abb2702ca3,14,PAINT,,0.0,version1
+15,6364ef63a3145f1256fd86a2,15,PAINT,man_made_scenery,0.0,version1
+16,63639ae2a3145f1256fd02fc,16,PAINT,man_made_scenery,0.0,version1

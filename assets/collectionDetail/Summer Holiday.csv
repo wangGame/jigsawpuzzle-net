@@ -1,0 +1,17 @@
+sortId,levelUUID,levelId,type,cateGory,unlockCost,version
+1,643d2437e616ced1543bc5bb,1,PAINT,islands,0.0,version1
+2,63ea15131be6ac9ae0a1988e,2,PAINT,man_made_scenery,0.0,version1
+3,61b85c50958f421ef1fea487,3,PAINT,,0.0,version1
+4,6411c37c2709bfc144c14b80,4,PAINT,SEA,0.0,version1
+5,61b85c3f958f421ef1fea483,5,PAINT,,0.0,version1
+6,63775f28231933abb270608f,6,PAINT,NAT,0.0,version1
+7,6441225ee616ced1543c19e7,7,PAINT,SEA,0.0,version1
+8,63c539afdc8de1e7b38b3a49,8,PAINT,islands,0.0,version1
+9,62e25806892f399c79a6c8b0,9,PAINT,man_made_scenery,0.0,version1
+10,640b062c2198b6f62543e77e,10,PAINT,islands,0.0,version1
+11,643fc8fde616ced1543c091b,11,PAINT,NAT,0.0,version1
+12,643e726fe616ced1543be7d0,12,PAINT,FOO,0.0,version1
+13,642405492709bfc144c2c44f,13,PAINT,islands,0.0,version1
+14,63e2294415945b3985996817,14,PAINT,OBJ,0.0,version1
+15,62d13f66f5ffecb013799e65,15,PAINT,NAT,0.0,version1
+16,641c3e902709bfc144c23c02,16,PAINT,FOO,0.0,version1

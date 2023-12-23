@@ -1,0 +1,17 @@
+sortId,levelUUID,levelId,type,cateGory,unlockCost,version
+1,63a57889bcdd690c41757e3e,1,PAINT,FOO,0.0,version1
+2,63a9849abcdd690c4175880e,2,PAINT,PET,0.0,version1
+3,63a57884bcdd690c41757e38,3,PAINT,FOO,0.0,version1
+4,63aeb949bca7595bc8b8cb8c,4,PAINT,FOO,0.0,version1
+5,63aeb94abca7595bc8b8cb8d,5,PAINT,FOO,0.0,version1
+6,63bd3de6bca7595bc8b9c377,6,PAINT,PET,0.0,version1
+7,63a579f9bcdd690c41757e5e,7,PAINT,PET,0.0,version1
+8,63ad655ebca7595bc8b8bd88,8,PAINT,FOO,0.0,version1
+9,63a579f8bcdd690c41757e5d,9,PAINT,FOO,0.0,version1
+10,63ad655dbca7595bc8b8bd87,10,PAINT,PET,0.0,version1
+11,63bd3de5bca7595bc8b9c376,11,PAINT,PET,0.0,version1
+12,63a5788abcdd690c41757e3f,12,PAINT,FOO,0.0,version1
+13,63aeb94bbca7595bc8b8cb8f,13,PAINT,FOO,0.0,version1
+14,63a57883bcdd690c41757e36,14,PAINT,PET,0.0,version1
+15,63a57885bcdd690c41757e39,15,PAINT,PET,0.0,version1
+16,63aeb94dbca7595bc8b8cb91,16,PAINT,FOO,0.0,version1

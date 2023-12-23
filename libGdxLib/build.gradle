@@ -1,0 +1,21 @@
+apply plugin: "java"
+
+//apply plugin: 'maven-publish'
+sourceCompatibility = 1.8
+sourceSets.main.java.srcDirs = [
+        "src/","utilssrc",
+]
+//
+dependencies {
+implementation files('lib\\libGdxSrc-1.0.jar')
+}
+//publishing {
+//    publications {
+//        maven(MavenPublication) {
+//            groupId = 'com.kw.gdx'
+//            artifactId = 'libGdxLib'
+//            version = '1.0'
+//            from components.java
+//        }
+//    }
+//}

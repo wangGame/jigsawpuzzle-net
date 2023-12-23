@@ -1,0 +1,667 @@
+{
+  "ID": "52af0a22-2546-4902-b4ce-245aacd51b9d",
+  "Version": "3.10.0.0",
+  "Name": "wellcomedialog",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 7,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 540.0,
+              "Y": 960.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.875,
+              "Y": 0.7422
+            },
+            "LeftMargin": 67.5,
+            "RightMargin": 67.5,
+            "TopMargin": 247.5,
+            "BottomMargin": 247.5,
+            "Tag": 10,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "dialogpic/dialogBg.png",
+                  "Plist": "plist/dialogplist.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 29,
+                "Scale9OriginY": 43,
+                "Scale9Width": 32,
+                "Scale9Height": 46,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 472.5,
+                  "Y": 712.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 253,
+                  "G": 253,
+                  "B": 253
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 8,
+                "ActionTag": -1061296967,
+                "Size": {
+                  "X": 945.0,
+                  "Y": 1425.0
+                },
+                "Name": "dialogbg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "LabelText": "Wellcome Back",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/inter-semi-32.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 472.5,
+                  "Y": 1270.0
+                },
+                "Scale": {
+                  "ScaleX": 1.5,
+                  "ScaleY": 1.5
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8912
+                },
+                "PreSize": {
+                  "X": 0.2497,
+                  "Y": 0.0274
+                },
+                "LeftMargin": 354.5,
+                "RightMargin": 354.5,
+                "TopMargin": 116.0,
+                "BottomMargin": 1270.0,
+                "Tag": 9,
+                "ActionTag": 252930734,
+                "Size": {
+                  "X": 236.0,
+                  "Y": 39.0
+                },
+                "Name": "dialogtitile",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 472.5,
+                  "Y": 619.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4347
+                },
+                "PreSize": {
+                  "X": 0.6032,
+                  "Y": 0.4
+                },
+                "LeftMargin": 187.5,
+                "RightMargin": 187.5,
+                "TopMargin": 235.5,
+                "BottomMargin": 619.5,
+                "Tag": 15,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "dialogpic/dialog_cir.png",
+                      "Plist": "plist/dialogplist.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 125,
+                    "Scale9OriginY": 125,
+                    "Scale9Width": 129,
+                    "Scale9Height": 131,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 217,
+                      "G": 193,
+                      "B": 193
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 16,
+                    "ActionTag": -638738264,
+                    "Size": {
+                      "X": 570.0,
+                      "Y": 570.0
+                    },
+                    "Name": "previewbg",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -809161541,
+                "Size": {
+                  "X": 570.0,
+                  "Y": 570.0
+                },
+                "Name": "preview",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 472.5,
+                  "Y": 459.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.3221
+                },
+                "PreSize": {
+                  "X": 0.6095,
+                  "Y": 0.0105
+                },
+                "LeftMargin": 184.5,
+                "RightMargin": 184.5,
+                "TopMargin": 951.0,
+                "BottomMargin": 459.0,
+                "Tag": 13,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "dialogpic/dialog_pro.png",
+                      "Plist": "plist/dialogplist.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 16,
+                    "Scale9OriginY": 4,
+                    "Scale9Width": 17,
+                    "Scale9Height": 7,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 165,
+                      "G": 42,
+                      "B": 42
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 14,
+                    "ActionTag": -1805451617,
+                    "Size": {
+                      "X": 576.0,
+                      "Y": 15.0
+                    },
+                    "Name": "processbg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "dialogpic/dialog_pro.png",
+                      "Plist": "plist/dialogplist.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 16,
+                    "Scale9OriginY": 4,
+                    "Scale9Width": 17,
+                    "Scale9Height": 7,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 128,
+                      "G": 0,
+                      "B": 128
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0851,
+                      "Y": 1.0
+                    },
+                    "RightMargin": 527.0,
+                    "Tag": 17,
+                    "ActionTag": 527353275,
+                    "Size": {
+                      "X": 49.0,
+                      "Y": 15.0
+                    },
+                    "Name": "process",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 794607769,
+                "Size": {
+                  "X": 576.0,
+                  "Y": 15.0
+                },
+                "Name": "processgroup",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 472.5,
+                  "Y": 177.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1242
+                },
+                "PreSize": {
+                  "X": 0.7143,
+                  "Y": 0.0842
+                },
+                "LeftMargin": 135.0,
+                "RightMargin": 135.0,
+                "TopMargin": 1128.0,
+                "BottomMargin": 177.0,
+                "Tag": 15,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "dialogpic/btn_bg.png",
+                      "Plist": "plist/dialogplist.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 35,
+                    "Scale9OriginY": 31,
+                    "Scale9Width": 38,
+                    "Scale9Height": 34,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 337.0,
+                      "Y": 60.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.25,
+                      "ScaleY": 1.25
+                    },
+                    "CColor": {
+                      "R": 50,
+                      "G": 197,
+                      "B": 86
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4993,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.8,
+                      "Y": 0.8
+                    },
+                    "LeftMargin": 67.0,
+                    "RightMargin": 68.0,
+                    "TopMargin": 12.0,
+                    "BottomMargin": 12.0,
+                    "Tag": 16,
+                    "ActionTag": -90703713,
+                    "Size": {
+                      "X": 540.0,
+                      "Y": 96.0
+                    },
+                    "Name": "btnbg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "continue",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "font/inter-semi-32.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 337.0,
+                      "Y": 60.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.5,
+                      "ScaleY": 1.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4993,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2,
+                      "Y": 0.325
+                    },
+                    "LeftMargin": 269.5,
+                    "RightMargin": 270.5,
+                    "TopMargin": 40.5,
+                    "BottomMargin": 40.5,
+                    "Tag": 17,
+                    "ActionTag": -2004532042,
+                    "Size": {
+                      "X": 135.0,
+                      "Y": 39.0
+                    },
+                    "Name": "btnlabel",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -2019279556,
+                "Size": {
+                  "X": 675.0,
+                  "Y": 120.0
+                },
+                "Name": "btncontinue",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 472.5,
+                  "Y": 27.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.0189
+                },
+                "PreSize": {
+                  "X": 0.7143,
+                  "Y": 0.0842
+                },
+                "LeftMargin": 135.0,
+                "RightMargin": 135.0,
+                "TopMargin": 1278.0,
+                "BottomMargin": 27.0,
+                "Tag": 18,
+                "Children": [
+                  {
+                    "LabelText": "main",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "font/inter-semi-32.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 337.0,
+                      "Y": 60.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.5,
+                      "ScaleY": 1.5
+                    },
+                    "CColor": {
+                      "R": 50,
+                      "G": 197,
+                      "B": 86
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4993,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1096,
+                      "Y": 0.325
+                    },
+                    "LeftMargin": 300.0,
+                    "RightMargin": 301.0,
+                    "TopMargin": 40.5,
+                    "BottomMargin": 40.5,
+                    "Tag": 20,
+                    "ActionTag": 2005059539,
+                    "Size": {
+                      "X": 74.0,
+                      "Y": 39.0
+                    },
+                    "Name": "btnlabel",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -857370975,
+                "Size": {
+                  "X": 675.0,
+                  "Y": 120.0
+                },
+                "Name": "btnmain",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1131899197,
+            "Size": {
+              "X": 945.0,
+              "Y": 1425.0
+            },
+            "Name": "dialog",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1080.0,
+          "Y": 1920.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "font/inter-semi-32.fnt",
+        "font/inter-semi-32.png",
+        "plist/dialogplist.plist",
+        "plist/dialogplist.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

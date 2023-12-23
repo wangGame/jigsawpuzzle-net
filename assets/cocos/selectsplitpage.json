@@ -1,0 +1,845 @@
+{
+  "ID": "68b7696e-e2bf-4f02-9913-554e704243a8",
+  "Version": "3.10.0.0",
+  "Name": "selectsplitpage",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 105,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "gamepic/white.png",
+              "Plist": "plist/gameplist.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 6,
+            "Scale9OriginY": 6,
+            "Scale9Width": 8,
+            "Scale9Height": 8,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 540.0,
+              "Y": 960.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 125,
+            "ActionTag": 1312457238,
+            "Size": {
+              "X": 1080.0,
+              "Y": 1920.0
+            },
+            "Name": "selectbg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 540.0,
+              "Y": 1920.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.0656
+            },
+            "BottomMargin": 1794.0,
+            "Tag": 115,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 540.0,
+                  "Y": 63.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.2778,
+                  "Y": 0.746
+                },
+                "LeftMargin": 390.0,
+                "RightMargin": 390.0,
+                "TopMargin": 16.0,
+                "BottomMargin": 16.0,
+                "Tag": 110,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "mainpic/toggle-back.png",
+                      "Plist": "plist/mainpic.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 50,
+                    "Scale9OriginY": 30,
+                    "Scale9Width": 53,
+                    "Scale9Height": 33,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 46.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.4947
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.9894
+                    },
+                    "TopMargin": 1.0,
+                    "Tag": 111,
+                    "ActionTag": 1468077667,
+                    "Size": {
+                      "X": 300.0,
+                      "Y": 93.0
+                    },
+                    "Name": "coinbg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "mainpic/puzzlecoin.png",
+                      "Plist": "plist/mainpic.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 42.0,
+                      "Y": 46.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.14,
+                      "Y": 0.4947
+                    },
+                    "PreSize": {
+                      "X": 0.23,
+                      "Y": 0.734
+                    },
+                    "LeftMargin": 7.5,
+                    "RightMargin": 223.5,
+                    "TopMargin": 13.0,
+                    "BottomMargin": 12.0,
+                    "Tag": 112,
+                    "ActionTag": -1250477008,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 69.0
+                    },
+                    "Name": "puzzlecoin",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "LabelText": "1230",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "font/inter-semi-32.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 145.0,
+                      "Y": 46.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.22,
+                      "ScaleY": 1.22
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4833,
+                      "Y": 0.4947
+                    },
+                    "PreSize": {
+                      "X": 0.2567,
+                      "Y": 0.4149
+                    },
+                    "LeftMargin": 106.5,
+                    "RightMargin": 116.5,
+                    "TopMargin": 28.0,
+                    "BottomMargin": 27.0,
+                    "Tag": 113,
+                    "ActionTag": 1731324218,
+                    "Size": {
+                      "X": 77.0,
+                      "Y": 39.0
+                    },
+                    "Name": "coinnumlabel",
+                    "ctype": "TextBMFontObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "mainpic/addicon.png",
+                      "Plist": "plist/mainpic.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 250.0,
+                      "Y": 46.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8333,
+                      "Y": 0.4947
+                    },
+                    "PreSize": {
+                      "X": 0.23,
+                      "Y": 0.734
+                    },
+                    "LeftMargin": 215.5,
+                    "RightMargin": 15.5,
+                    "TopMargin": 13.0,
+                    "BottomMargin": 12.0,
+                    "Tag": 114,
+                    "ActionTag": 140820359,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 69.0
+                    },
+                    "Name": "addicon",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -799666734,
+                "Size": {
+                  "X": 300.0,
+                  "Y": 94.0
+                },
+                "Name": "coingroup",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "LabelText": "cancel",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/inter-semi-32.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 966.0,
+                  "Y": 63.0
+                },
+                "Scale": {
+                  "ScaleX": 1.5,
+                  "ScaleY": 1.5
+                },
+                "CColor": {
+                  "R": 50,
+                  "G": 197,
+                  "B": 86
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8944,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0935,
+                  "Y": 0.3095
+                },
+                "LeftMargin": 915.5,
+                "RightMargin": 63.5,
+                "TopMargin": 43.5,
+                "BottomMargin": 43.5,
+                "Tag": 116,
+                "ActionTag": -611204367,
+                "Size": {
+                  "X": 101.0,
+                  "Y": 39.0
+                },
+                "Name": "cancelbtn",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -1056772073,
+            "Size": {
+              "X": 1080.0,
+              "Y": 126.0
+            },
+            "Name": "selecttop",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 540.0,
+              "Y": 741.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3859
+            },
+            "PreSize": {
+              "X": 0.9426,
+              "Y": 0.5302
+            },
+            "LeftMargin": 31.0,
+            "RightMargin": 31.0,
+            "TopMargin": 161.0,
+            "BottomMargin": 741.0,
+            "Tag": 117,
+            "ActionTag": -1610524469,
+            "Size": {
+              "X": 1018.0,
+              "Y": 1018.0
+            },
+            "Name": "pregroup",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "LabelText": "Select Difficulty",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "font/inter-semi-32.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 540.0,
+              "Y": 816.0
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {
+              "R": 68,
+              "G": 73,
+              "B": 79
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.425
+            },
+            "PreSize": {
+              "X": 0.2259,
+              "Y": 0.0203
+            },
+            "LeftMargin": 418.0,
+            "RightMargin": 418.0,
+            "TopMargin": 1084.5,
+            "BottomMargin": 796.5,
+            "Tag": 118,
+            "ActionTag": 796666102,
+            "Size": {
+              "X": 244.0,
+              "Y": 39.0
+            },
+            "Name": "selectdifficultytitle",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 374.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.1948
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.1844
+            },
+            "TopMargin": 1192.0,
+            "BottomMargin": 374.0,
+            "Tag": 120,
+            "Children": [
+              {
+                "LabelText": "reward",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/inter-semi-32.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5712,
+                  "ScaleY": 0.4082
+                },
+                "Position": {
+                  "X": 547.6928,
+                  "Y": 337.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 138,
+                  "G": 143,
+                  "B": 153
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5071,
+                  "Y": 0.952
+                },
+                "PreSize": {
+                  "X": 0.1,
+                  "Y": 0.1102
+                },
+                "LeftMargin": 486.0032,
+                "RightMargin": 485.9968,
+                "TopMargin": -6.0802,
+                "BottomMargin": 321.0802,
+                "Tag": 121,
+                "ActionTag": -451551240,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 39.0
+                },
+                "Name": "rewardlabel",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 52.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.1469
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.7684
+                },
+                "TopMargin": 30.0,
+                "BottomMargin": 52.0,
+                "Tag": 132,
+                "ActionTag": 1372786353,
+                "Size": {
+                  "X": 1080.0,
+                  "Y": 272.0
+                },
+                "Name": "itempanel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "LabelText": "Piececs",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/inter-semi-32.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 540.0,
+                  "Y": -10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.5,
+                  "ScaleY": 1.5
+                },
+                "CColor": {
+                  "R": 68,
+                  "G": 73,
+                  "B": 79
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": -0.0282
+                },
+                "PreSize": {
+                  "X": 0.112,
+                  "Y": 0.1102
+                },
+                "LeftMargin": 479.5,
+                "RightMargin": 479.5,
+                "TopMargin": 325.0,
+                "BottomMargin": -10.0,
+                "Tag": 126,
+                "ActionTag": 807659577,
+                "Size": {
+                  "X": 121.0,
+                  "Y": 39.0
+                },
+                "Name": "pieces",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -601704850,
+            "Size": {
+              "X": 1080.0,
+              "Y": 354.0
+            },
+            "Name": "selectdifficulty",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 540.0,
+              "Y": 44.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.0229
+            },
+            "PreSize": {
+              "X": 0.625,
+              "Y": 0.0625
+            },
+            "LeftMargin": 202.5,
+            "RightMargin": 202.5,
+            "TopMargin": 1756.0,
+            "BottomMargin": 44.0,
+            "Tag": 122,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "dialogpic/btn_bg.png",
+                  "Plist": "plist/dialogplist.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 42,
+                "Scale9OriginY": 31,
+                "Scale9Width": 25,
+                "Scale9Height": 34,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 337.0,
+                  "Y": 60.0
+                },
+                "Scale": {
+                  "ScaleX": 1.25,
+                  "ScaleY": 1.25
+                },
+                "CColor": {
+                  "R": 50,
+                  "G": 197,
+                  "B": 86
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4993,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.8,
+                  "Y": 0.8
+                },
+                "LeftMargin": 67.0,
+                "RightMargin": 68.0,
+                "TopMargin": 12.0,
+                "BottomMargin": 12.0,
+                "Tag": 123,
+                "ActionTag": -170569911,
+                "Size": {
+                  "X": 540.0,
+                  "Y": 96.0
+                },
+                "Name": "btnbg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "LabelText": "continue",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/inter-semi-32.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 337.0,
+                  "Y": 60.0
+                },
+                "Scale": {
+                  "ScaleX": 1.5,
+                  "ScaleY": 1.5
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4993,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.2,
+                  "Y": 0.325
+                },
+                "LeftMargin": 269.5,
+                "RightMargin": 270.5,
+                "TopMargin": 40.5,
+                "BottomMargin": 40.5,
+                "Tag": 124,
+                "ActionTag": 427350684,
+                "Size": {
+                  "X": 135.0,
+                  "Y": 39.0
+                },
+                "Name": "btnlabel",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -748951897,
+            "Size": {
+              "X": 675.0,
+              "Y": 120.0
+            },
+            "Name": "btncontinue",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1080.0,
+          "Y": 1920.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "font/inter-semi-32.fnt",
+        "font/inter-semi-32.png",
+        "plist/dialogplist.plist",
+        "plist/dialogplist.png",
+        "plist/gameplist.plist",
+        "plist/gameplist.png",
+        "plist/mainpic.plist",
+        "plist/mainpic.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

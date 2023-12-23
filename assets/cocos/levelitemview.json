@@ -1,0 +1,422 @@
+{
+  "ID": "6afbe82f-49e8-46f1-97d5-cad9835dc62d",
+  "Version": "3.10.0.0",
+  "Name": "levelitemview",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 133,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 232.5,
+              "Y": 232.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 44,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "levelitempic/popUpContentBg@3x.png",
+                  "Plist": "plist/levelplist.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 56,
+                "Scale9OriginY": 53,
+                "Scale9Width": 8,
+                "Scale9Height": 18,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 232.5,
+                  "Y": 219.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 214,
+                  "G": 118,
+                  "B": 118
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.472
+                },
+                "PreSize": {
+                  "X": 1.1269,
+                  "Y": 1.1376
+                },
+                "LeftMargin": -29.5,
+                "RightMargin": -29.5,
+                "TopMargin": -19.0,
+                "BottomMargin": -45.0,
+                "Tag": 45,
+                "ActionTag": -1330127872,
+                "Size": {
+                  "X": 524.0,
+                  "Y": 529.0
+                },
+                "Name": "Image_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 379.0,
+                  "Y": 379.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8151,
+                  "Y": 0.8151
+                },
+                "PreSize": {
+                  "X": 0.1376,
+                  "Y": 0.1376
+                },
+                "LeftMargin": 379.0,
+                "RightMargin": 22.0,
+                "TopMargin": 22.0,
+                "BottomMargin": 379.0,
+                "Tag": 48,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "levelitempic/awards_event-placeholder@3x.png",
+                      "Plist": "plist/levelplist.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 32.0,
+                      "Y": 32.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 32,
+                      "G": 234,
+                      "B": 70
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.9844,
+                      "Y": 0.9844
+                    },
+                    "LeftMargin": 0.5,
+                    "RightMargin": 0.5,
+                    "TopMargin": 0.5,
+                    "BottomMargin": 0.5,
+                    "Tag": 47,
+                    "ActionTag": 1150231012,
+                    "Size": {
+                      "X": 63.0,
+                      "Y": 63.0
+                    },
+                    "Name": "lockbg",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "levelitempic/lockIcon@3x.png",
+                      "Plist": "plist/levelplist.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 32.0,
+                      "Y": 32.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.5156,
+                      "Y": 0.7031
+                    },
+                    "LeftMargin": 15.5,
+                    "RightMargin": 15.5,
+                    "TopMargin": 9.5,
+                    "BottomMargin": 9.5,
+                    "Tag": 46,
+                    "ActionTag": -360555949,
+                    "Size": {
+                      "X": 33.0,
+                      "Y": 45.0
+                    },
+                    "Name": "lockicon",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1818057628,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 64.0
+                },
+                "Name": "lock",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 336.0,
+                  "Y": 377.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7226,
+                  "Y": 0.8108
+                },
+                "PreSize": {
+                  "X": 0.2301,
+                  "Y": 0.1376
+                },
+                "LeftMargin": 336.0,
+                "RightMargin": 22.0,
+                "TopMargin": 24.0,
+                "BottomMargin": 377.0,
+                "Tag": 53,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "levelitempic/uipkg_win_imgContainerImg@3x OBSOLETE.png",
+                      "Plist": "plist/levelplist.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 31,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 5,
+                    "Scale9Height": 24,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 53.5,
+                      "Y": 33.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5156
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0312
+                    },
+                    "TopMargin": -2.0,
+                    "Tag": 52,
+                    "ActionTag": 1776395357,
+                    "Size": {
+                      "X": 107.0,
+                      "Y": 66.0
+                    },
+                    "Name": "processbg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "30",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "font/inter-semi-32.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 53.5,
+                      "Y": 33.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5156
+                    },
+                    "PreSize": {
+                      "X": 0.3925,
+                      "Y": 0.6094
+                    },
+                    "LeftMargin": 32.5,
+                    "RightMargin": 32.5,
+                    "TopMargin": 11.5,
+                    "BottomMargin": 13.5,
+                    "Tag": 54,
+                    "ActionTag": 1406065435,
+                    "Size": {
+                      "X": 42.0,
+                      "Y": 39.0
+                    },
+                    "Name": "processlabel",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -1670406103,
+                "Size": {
+                  "X": 107.0,
+                  "Y": 64.0
+                },
+                "Name": "process",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1867566639,
+            "Size": {
+              "X": 465.0,
+              "Y": 465.0
+            },
+            "Name": "levelitem",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 465.0,
+          "Y": 465.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "font/inter-semi-32.fnt",
+        "font/inter-semi-32.png",
+        "plist/levelplist.plist",
+        "plist/levelplist.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

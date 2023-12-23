@@ -1,0 +1,17 @@
+sortId,levelUUID,levelId,type,cateGory,unlockCost,version
+1,6400936d4ecce27a6fe0217a,1,PAINT,countryside,0.0,version1
+2,618b79606ac28a0ab9b2c015,2,PAINT,,0.0,version1
+3,6487013ab2aadc44a3095a16,3,PAINT,PET,0.0,version1
+4,6447a30201e6c46b636d9584,4,PAINT,FLO,0.0,version1
+5,64ae9f579313055ba53215d1,5,PAINT,NAT,0.0,version1
+6,64df087ae3cc3e2fb8026211,6,PAINT,NAT,0.0,version1
+7,642ff04f3fca89941688581f,7,PAINT,FLO,0.0,version1
+8,64412257e616ced1543c19dd,8,PAINT,NAT,0.0,version1
+9,64b517719313055ba5329ef1,9,PAINT,countryside,0.0,version1
+10,6332cf37df60b1b10e0f59ad,10,PAINT,,0.0,version1
+11,64c0df70890be166569681ea,11,PAINT,charming_houses,0.0,version1
+12,636245a3a3145f1256fcee37,12,PAINT,travel,0.0,version1
+13,61937bdd6ac28a0ab9b2ec9f,13,PAINT,,0.0,version1
+14,64d4b636e3cc3e2fb801ecf6,14,PAINT,VIN,0.0,version1
+15,640f1bdf2198b6f62543faa5,15,PAINT,OBJ,0.0,version1
+16,64b1626a9313055ba5324e1f,16,PAINT,NAT,0.0,version1

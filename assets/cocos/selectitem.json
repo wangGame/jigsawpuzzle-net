@@ -1,0 +1,257 @@
+{
+  "ID": "c52758fb-3656-481e-bd31-e0014ab1dbfd",
+  "Version": "3.10.0.0",
+  "Name": "selectitem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 127,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.9029
+            },
+            "TopMargin": 27.0,
+            "Tag": 130,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "selectpieceitem/pregamePieceControlCentralPuzzle@3x.png",
+                  "Plist": "plist/pieceitemplist.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 109.5,
+                  "Y": 87.54
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4977,
+                  "Y": 0.3488
+                },
+                "PreSize": {
+                  "X": 0.9955,
+                  "Y": 0.6454
+                },
+                "RightMargin": 1.0,
+                "TopMargin": 82.46,
+                "BottomMargin": 6.54,
+                "Tag": 128,
+                "ActionTag": -327788287,
+                "Size": {
+                  "X": 219.0,
+                  "Y": 162.0
+                },
+                "Name": "piecemodel",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "selectpieceitem/puzzlecoin.png",
+                  "Plist": "plist/pieceitemplist.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 54.8623,
+                  "Y": 215.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2494,
+                  "Y": 0.8566
+                },
+                "PreSize": {
+                  "X": 0.3136,
+                  "Y": 0.2749
+                },
+                "LeftMargin": 20.3623,
+                "RightMargin": 130.6377,
+                "TopMargin": 1.5,
+                "BottomMargin": 180.5,
+                "Tag": 129,
+                "ActionTag": -2015096041,
+                "Size": {
+                  "X": 69.0,
+                  "Y": 69.0
+                },
+                "Name": "piececoin",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "LabelText": "200",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/inter-semi-32.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 142.0,
+                  "Y": 217.0
+                },
+                "Scale": {
+                  "ScaleX": 1.3,
+                  "ScaleY": 1.3
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6455,
+                  "Y": 0.8645
+                },
+                "PreSize": {
+                  "X": 0.2818,
+                  "Y": 0.1554
+                },
+                "LeftMargin": 111.0,
+                "RightMargin": 47.0,
+                "TopMargin": 14.5,
+                "BottomMargin": 197.5,
+                "Tag": 131,
+                "ActionTag": -1127463705,
+                "Size": {
+                  "X": 62.0,
+                  "Y": 39.0
+                },
+                "Name": "piececoinlabel",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": "200",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/inter-semi-32.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 109.5,
+                  "Y": 90.0
+                },
+                "Scale": {
+                  "ScaleX": 1.3,
+                  "ScaleY": 1.3
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4977,
+                  "Y": 0.3586
+                },
+                "PreSize": {
+                  "X": 0.2818,
+                  "Y": 0.1554
+                },
+                "LeftMargin": 78.5,
+                "RightMargin": 79.5,
+                "TopMargin": 141.5,
+                "BottomMargin": 70.5,
+                "Tag": 133,
+                "ActionTag": 530862290,
+                "Size": {
+                  "X": 62.0,
+                  "Y": 39.0
+                },
+                "Name": "piecesnum",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -435837244,
+            "Size": {
+              "X": 220.0,
+              "Y": 251.0
+            },
+            "Name": "selectitem",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 220.0,
+          "Y": 278.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "font/inter-semi-32.fnt",
+        "font/inter-semi-32.png",
+        "plist/pieceitemplist.plist",
+        "plist/pieceitemplist.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

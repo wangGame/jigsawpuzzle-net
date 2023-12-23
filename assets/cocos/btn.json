@@ -1,0 +1,175 @@
+{
+  "ID": "b7e0f94e-1509-4852-b924-9fe33f97ed53",
+  "Version": "3.10.0.0",
+  "Name": "btn",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 73,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 74,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "dialogpic/btn_bg.png",
+                  "Plist": "plist/dialogplist.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 35,
+                "Scale9OriginY": 31,
+                "Scale9Width": 38,
+                "Scale9Height": 34,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 337.0,
+                  "Y": 60.0
+                },
+                "Scale": {
+                  "ScaleX": 1.25,
+                  "ScaleY": 1.25
+                },
+                "CColor": {
+                  "R": 50,
+                  "G": 197,
+                  "B": 86
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4993,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.8,
+                  "Y": 0.8
+                },
+                "LeftMargin": 67.0,
+                "RightMargin": 68.0,
+                "TopMargin": 12.0,
+                "BottomMargin": 12.0,
+                "Tag": 75,
+                "ActionTag": -1023008174,
+                "Size": {
+                  "X": 540.0,
+                  "Y": 96.0
+                },
+                "Name": "btnbg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "LabelText": "continue",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/inter-semi-32.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 337.0,
+                  "Y": 60.0
+                },
+                "Scale": {
+                  "ScaleX": 1.5,
+                  "ScaleY": 1.5
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4993,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.2,
+                  "Y": 0.325
+                },
+                "LeftMargin": 269.5,
+                "RightMargin": 270.5,
+                "TopMargin": 40.5,
+                "BottomMargin": 40.5,
+                "Tag": 76,
+                "ActionTag": -858911105,
+                "Size": {
+                  "X": 135.0,
+                  "Y": 39.0
+                },
+                "Name": "btnlabel",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 1164468723,
+            "Size": {
+              "X": 675.0,
+              "Y": 120.0
+            },
+            "Name": "btncontinue",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 675.0,
+          "Y": 120.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "font/inter-semi-32.fnt",
+        "font/inter-semi-32.png",
+        "plist/dialogplist.plist",
+        "plist/dialogplist.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}
